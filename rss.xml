@@ -110,5 +110,12 @@
 	      <pubDate>Thu, 25 Apr 2025 16:30:00 +0300</pubDate>
 	      <guid>15</guid>
     	</item>
+	  <item>
+	      <title>Останні новини технології</title>
+	      <link>https://example.com/tech-news</link>
+	      <description>Україна продовжує розвивати цифрові сервіси</description>
+	      <pubDate>Thu, 25 Apr 2025 16:31:00 +0300</pubDate>
+	      <guid>16</guid>
+    	</item>
   </channel>
 </rss>
